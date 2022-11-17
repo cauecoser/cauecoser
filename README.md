@@ -7,7 +7,7 @@ do tamanho quase que infinito desse universo.
 
 Pretendo atuar na área de forma colaborativa e/ou independente já que a
 programação me traz um prazer sem igual!
-======================================================================================
+<hr>
 Hello! My name is <b>Cauê</b> and I'm interested in developing more every day
 my logical programming capacity, accessorized by the most varied
 existing features in programming languages.
@@ -17,4 +17,4 @@ the almost infinite size of this universe.
 
 I intend to act in the area collaboratively and/or independently since the
 programming brings me an unparalleled pleasure!
-======================================================================================
+<hr>
