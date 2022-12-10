@@ -21,8 +21,8 @@ programming brings me an unparalleled pleasure!</h2>
 <strong>Olá! Meu nome é Cauê, sou desenvolvedor Front-End e estou em processo de transição de carreira!</strong>
 <div align="center">
   <a href="https://github.com/cauecoser">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauecoser&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauecoser&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cauecoser&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauecoser&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
