@@ -1,4 +1,4 @@
-Olá! Me chamo <b>Cauê</b> e tenho interesse em desenvolver a cada dia mais
+<!--Olá! Me chamo <b>Cauê</b> e tenho interesse em desenvolver a cada dia mais
 a minha capacidade lógica de programação, acessorada pelos mais variados
 recursos exitentes nas linguagens de programação.
 
@@ -17,7 +17,7 @@ the almost infinite size of this universe.
 
 <h2>I intend to act in the area collaboratively and/or independently since the
 programming brings me an unparalleled pleasure!</h2>
-<hr>
+<hr>-->
 <strong>Olá! Meu nome é Cauê, sou desenvolvedor Front-End e estou em processo de transição de carreira!</strong>
 <div align="center">
   <a href="https://github.com/cauecoser">
@@ -29,7 +29,7 @@ programming brings me an unparalleled pleasure!</h2>
   <img align="center" alt="Caue-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Caue-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Caue-pic" height="150" style="border-radius:50px;" src="">
 </div>
   
   ##
