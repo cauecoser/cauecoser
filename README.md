@@ -19,7 +19,7 @@ the almost infinite size of this universe.
 programming brings me an unparalleled pleasure!</h2>
 <hr>-->
 <strong>Olá! Meu nome é Cauê, sou desenvolvedor Front-End e estou em processo de transição de carreira!</strong>
-<div align="center">
+<div>
   <a href="https://github.com/cauecoser">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauecoser&layout=compact&langs_count=7&theme=dracula"/>
 </div>
