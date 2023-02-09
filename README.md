@@ -29,7 +29,7 @@ programming brings me an unparalleled pleasure!</h2>
   <img align="center" alt="Caue-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Caue-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Caue-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CJ7TcJ9H2f7">
 </div>
   
   ##
